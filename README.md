@@ -11,3 +11,4 @@ To start the game, open your terminal and run the `node main.js` command.
 If you fall into the hole, you will lose the game.
 
 the end
+this is ver0.2
