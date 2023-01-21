@@ -10,4 +10,4 @@ To start the game, open your terminal and run the `node main.js` command.
 ## Lose Conditions
 If you fall into the hole, you will lose the game.
 
-the end
+
